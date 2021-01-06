@@ -1,0 +1,18 @@
+pandas
+scikit-learn
+numpy
+statsmodels
+seaborn
+spacy
+beautifulsoup4
+ipykernel
+ipython
+bokeh
+pyspark
+tqdm
+psutil
+pytorch_widedeep
+# Torch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cu101
+torchvision==0.7.0+cu101
